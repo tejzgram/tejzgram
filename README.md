@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I’m Praise 👋
 
-<!--
-**tejzgram/tejzgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a *Data Analyst* with a strong focus on *Excel, SQL, and Power BI*, specializing in  
+*Monitoring & Evaluation (M&E)* and *Healthcare & Ecommerce data*.
 
-Here are some ideas to get you started:
+I turn raw, messy data into *clear insights and decision-ready dashboards* that support
+performance tracking, impact measurement, and business growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tools & Skills
+- Excel (Advanced formulas, PivotTables, Power Query)
+- SQL (Data cleaning, joins, CTEs, analysis)
+- Power BI (Dashboards, DAX, data modeling)
+- Monitoring & Evaluation (KPIs, indicators, reporting)
+- Healthcare & Ecommerce analytics
+
+---
+
+### 📊 Featured Projects
+- 🏥 *Healthcare M&E Dashboard* – Power BI  
+- 🛒 *Ecommerce Sales Analysis* – SQL & Excel  
+- 📈 *KPI Tracking Dashboard* – Power BI
+
+---
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/praise-owumi-52095b165
